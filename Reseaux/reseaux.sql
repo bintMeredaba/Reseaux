@@ -1,0 +1,32 @@
+-- Table admin
+CREATE TABLE IF NOT EXISTS admin (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL,
+    email VARCHAR(100) NOT NULL UNIQUE
+);
+
+-- Table employes
+CREATE TABLE IF NOT EXISTS employes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nom VARCHAR(100) NOT NULL,
+    poste VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL UNIQUE
+);
+
+-- Table clients
+CREATE TABLE IF NOT EXISTS clients (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nom VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    telephone VARCHAR(20),
+    entreprise VARCHAR(100)
+);
+
+-- Table fichiers
+CREATE TABLE IF NOT EXISTS fichiers (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nom_fichier VARCHAR(255) NOT NULL,
+    type_fichier VARCHAR(50) NOT NULL
+    FOREIGN KEY (uploaded_by) REFERENCES admin(id) ON DELETE SET NULL
+);

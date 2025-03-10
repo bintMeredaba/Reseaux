@@ -1,0 +1,176 @@
+
+## Chambre criminelle - Audience solennelle du 15 janvier 2025
+### Affaire N°182/2024 : Les jeunes de la banlieue Sud c/ Ministère Public
+
+*Président de chambre* : M. Mamadou SECK  
+*Conseillers* : Mme Mariama FAYE, M. Ibrahima DIOP  
+*Avocat Général* : M. Abdoulaye MBAYE  
+*Greffier* : M. Cheikh NIANG
+
+---
+
+## SCÈNE 1 : OUVERTURE DE L'AUDIENCE
+
+
+**PRÉSIDENT SECK** : La Cour d'appel de Dakar, chambre criminelle, déclare l'audience ouverte. Nous examinons aujourd'hui l'appel formé par Me Cheikh FALL et ses confrères contre le jugement du tribunal correctionnel de Dakar du 15 juillet 2023 condamnant 98 jeunes à des peines de 8 à 18 mois d'emprisonnement pour participation à une manifestation non autorisée en mars 2023. 
+
+Cette audience représente le dernier recours judiciaire national dans cette affaire. Monsieur le Greffier, veuillez rappeler les faits.
+
+**GREFFIER NIANG** : En mars 2023, suite à des manifestations dans la capitale, 98 jeunes issus de la banlieue Sud de Dakar ont été identifiés par le système de reconnaissance faciale OPTICA SECURITY comme participants à des rassemblements non autorisés. Ils ont été interpellés sans la présence d'avocats, déférés et placés sous mandat de dépôt. Le tribunal correctionnel les a condamnés le 15 juillet 2023 à diverses peines d'emprisonnement, se fondant principalement sur les identifications effectuées par le système de reconnaissance faciale.
+
+**PRÉSIDENT SECK** : Maître FALL, vous avez la parole pour exposer vos moyens d'appel.
+
+## SCÈNE 2 : PLAIDOIRIE DE LA DÉFENSE
+
+**MAÎTRE FALL** *(se lève avec détermination)* : Monsieur le Président, honorables conseillers, la présente affaire n'est pas simplement celle de 98 jeunes accusés de participation à une manifestation. Elle constitue un tournant pour notre démocratie et notre système judiciaire.
+
+Notre appel repose sur quatre moyens fondamentaux :
+
+Premièrement, la violation manifeste des droits de la défense. Mes clients ont été interpellés, interrogés et poursuivis sans pouvoir bénéficier de l'assistance d'un avocat, en violation flagrante de l'article 9 de notre Constitution et de l'article 7 de la Charte africaine des droits de l'homme et des peuples.
+
+Deuxièmement, l'absence totale de fiabilité de la preuve utilisée. Le système OPTICA SECURITY, sur lequel repose entièrement l'accusation, n'a jamais fait l'objet d'un audit indépendant. Sa fiabilité n'a jamais été prouvée scientifiquement.
+
+Troisièmement, la discrimination systémique dans l'application de cette technologie. Comment expliquer que sur les milliers de personnes présentes lors des manifestations, seuls des jeunes de la banlieue Sud, zone défavorisée, aient été identifiés ?
+
+Quatrièmement, l'opacité totale du processus d'identification. Les accusés n'ont jamais pu avoir accès aux images sur lesquelles ils auraient été identifiés ni aux méthodes utilisées pour cette identification.
+
+**PRÉSIDENT SECK** : Avez-vous des éléments concrets démontrant un problème de fiabilité du système OPTICA SECURITY ?
+
+**MAÎTRE FALL** : Absolument, Monsieur le Président. Nous avons fait appel à un expert indépendant en intelligence artificielle, le Professeur Amadou SALL de l'Université Cheikh Anta Diop, qui a analysé le peu d'informations disponibles sur ce système. Avec votre permission, nous souhaiterions qu'il témoigne devant cette Cour.
+
+**PRÉSIDENT SECK** : La Cour accepte d'entendre l'expert.
+
+## SCÈNE 3 : TÉMOIGNAGE DE L'EXPERT EN IA
+
+**PROFESSEUR SALL** *(s'avance vers la barre)* : Merci, Monsieur le Président. Je suis Professeur en sciences informatiques à l'UCAD depuis douze ans, spécialisé en intelligence artificielle et traitement d'images. J'ai participé à plusieurs audits internationaux de systèmes de reconnaissance faciale.
+
+Concernant OPTICA SECURITY, j'ai analysé les informations publiquement disponibles et les résultats fournis dans certains procès-verbaux. Mes conclusions sont les suivantes :
+
+Premièrement, les systèmes de reconnaissance faciale présentent des taux d'erreur significativement plus élevés pour les personnes à peau foncée. Les études scientifiques internationales publiées dans Nature et Science démontrent des taux d'erreur de 10 à 40% selon les conditions.
+
+Deuxièmement, la reconnaissance dans des conditions de manifestation - mouvements rapides, angles variables, faible luminosité, visages partiellement masqués - diminue drastiquement la fiabilité de ces systèmes.
+
+Troisièmement, l'analyse des "scores de confiance" mentionnés dans les procès-verbaux révèle des incohérences mathématiques flagrantes. Par exemple, dans plusieurs cas, le système affiche un "taux de certitude de 99%" pour des visages dont on ne voit que le profil ou l'arrière de la tête, ce qui est techniquement impossible.
+
+**AVOCAT GÉNÉRAL MBAYE** *(se lève)* : Objection ! L'expert n'a pas eu accès au système complet. Ses conclusions sont purement spéculatives.
+
+**PRÉSIDENT SECK** : Objection notée. Professeur SALL, avez-vous demandé à avoir accès au système complet pour une évaluation ?
+
+**PROFESSEUR SALL** : Oui, Monsieur le Président. À trois reprises, j'ai officiellement demandé à pouvoir auditer le système. Les développeurs et le ministère de l'Intérieur ont systématiquement refusé, invoquant le secret commercial et la sécurité nationale. Ce refus en lui-même pose un problème méthodologique majeur : dans la communauté scientifique, tout système qui ne peut être vérifié indépendamment est considéré comme non fiable par définition.
+
+**MAÎTRE FALL** : Monsieur le Président, c'est précisément notre point. Comment accepter qu'une condamnation pénale repose sur un système dont personne, pas même les juges, ne peut vérifier la fiabilité ?
+
+## SCÈNE 4 : TÉMOIGNAGES DES VICTIMES
+
+**PRÉSIDENT SECK** : La Cour va maintenant entendre deux des accusés. Monsieur Abdoulaye MBENGUE, veuillez vous approcher.
+
+**ABDOULAYE MBENGUE** *(jeune homme de 24 ans)* : Merci, Monsieur le Président. Le jour de la manifestation, j'étais à l'hôpital au chevet de ma mère malade. J'ai présenté au tribunal l'attestation de l'hôpital, les témoignages du personnel médical, mais le juge a simplement dit que "l'intelligence artificielle ne ment pas". On m'a montré une photo floue où on voit à peine un visage, et on m'a dit que c'était moi à 97%. J'ai perdu mon emploi à cause de cette détention, et ma mère est décédée pendant que j'étais en prison.
+
+*Un murmure d'indignation parcourt la salle.*
+
+**PRÉSIDENT SECK** : Silence dans la salle. Nous allons maintenant entendre Mademoiselle Fatou DIALLO.
+
+**FATOU DIALLO** *(étudiante de 21 ans)* : Monsieur le Président, j'ai été arrêtée à mon domicile à 5 heures du matin, sans mandat. Les policiers m'ont dit que leur ordinateur m'avait reconnue dans la manifestation. Quand j'ai demandé à voir les preuves, on m'a répondu que c'était confidentiel. En huit mois de détention, je n'ai jamais vu ces supposées images de moi. J'étais en pleine période d'examens, j'ai perdu mon année universitaire. Ma famille n'est pas riche, nous avons dû vendre notre terrain pour payer les frais d'avocat.
+
+## SCÈNE 5 : INTERVENTION DU REPRÉSENTANT DES DÉVELOPPEURS DU LOGICIEL
+
+**PRÉSIDENT SECK** : La Cour souhaite entendre le représentant de la société Afrique Technologie Sécurité, développeur du système OPTICA SECURITY. Monsieur WADE, veuillez vous présenter.
+
+**M. WADE** *(directeur technique)* : Messieurs les juges, OPTICA SECURITY est un système de pointe développé spécifiquement pour les réalités africaines. Notre algorithme a été entraîné sur plus de 500 000 visages africains pour garantir sa précision. Le taux de fiabilité global est de 95%, ce qui est supérieur aux standards internationaux.
+
+Concernant le secret commercial, comprennez que notre entreprise a investi des millions de francs CFA dans cette technologie. Révéler notre code source reviendrait à offrir gratuitement notre travail à nos concurrents.
+
+**MAÎTRE FALL** : Monsieur WADE, pouvez-vous nous dire si votre système a déjà fait l'objet d'un audit indépendant ?
+
+**M. WADE** : Nous avons nos propres procédures de contrôle qualité internes.
+
+**MAÎTRE FALL** : Ce n'est pas ma question. Un organisme indépendant a-t-il testé votre système ?
+
+**M. WADE** *(hésitant)* : Non, mais cela n'est pas nécessaire. Nos tests internes sont rigoureux.
+
+**MAÎTRE FALL** : Une dernière question : comment expliquez-vous que votre système n'ait identifié que des jeunes de la banlieue Sud, alors que les images des manifestations montrent clairement des personnes de tous les quartiers de Dakar ?
+
+**M. WADE** : Je... je ne peux pas commenter les opérations spécifiques de la police.
+
+## SCÈNE 6 : PLAIDOIRIE DU MINISTÈRE PUBLIC
+
+**AVOCAT GÉNÉRAL MBAYE** *(se lève solennellement)* : Monsieur le Président, honorables conseillers, nous faisons face à une situation où la modernité technologique est présentée comme une menace, alors qu'elle est simplement un outil au service de la justice.
+
+Les manifestations de mars 2023 ont causé pour plus de 500 millions de francs CFA de dégâts. Des commerces ont été pillés, des infrastructures publiques vandalisées. La sécurité nationale était en jeu.
+
+OPTICA SECURITY n'est qu'un outil d'aide à la décision. Les identifications ont toutes été vérifiées par des agents de police expérimentés. Les accusés ont eu l'opportunité de présenter des alibis, que le tribunal a évalués souverainement.
+
+Quant à la prétendue discrimination, elle n'est que le reflet d'une réalité sociologique : les fauteurs de troubles venaient majoritairement des quartiers périphériques.
+
+Je demande donc à la Cour de confirmer le jugement de première instance.
+
+**MAÎTRE FALL** *(se lève immédiatement)* : Objection ! L'Avocat Général vient de faire une déclaration ouvertement discriminatoire en associant trouble à l'ordre public et origine géographique !
+
+**PRÉSIDENT SECK** : Objection retenue. Monsieur l'Avocat Général, veuillez vous abstenir de telles généralisations.
+
+**AVOCAT GÉNÉRAL MBAYE** : Je reformule. Les analyses statistiques des précédentes manifestations montraient une surreprésentation de certains quartiers parmi les personnes interpellées.
+
+## SCÈNE 7 : RÉPLIQUE FINALE DE LA DÉFENSE
+
+**MAÎTRE FALL** : Monsieur le Président, honorables conseillers, cette "surreprésentation" dont parle l'Avocat Général n'est que le reflet des biais préexistants dans les pratiques policières, biais que l'intelligence artificielle vient amplifier.
+
+Cette affaire pose trois questions fondamentales pour notre démocratie :
+
+La première est celle de la fiabilité de la preuve. Le droit pénal exige la certitude au-delà du doute raisonnable. Comment peut-on parler de certitude avec un système qui refuse tout audit indépendant ?
+
+La deuxième est celle de l'égalité devant la loi. Comment ne pas voir une discrimination lorsque 100% des personnes identifiées proviennent des quartiers les plus pauvres ?
+
+La troisième est celle du droit à un procès équitable. Comment parler d'équité lorsque l'accusé ne peut même pas vérifier les preuves utilisées contre lui ?
+
+Notre Constitution, notre tradition juridique et nos engagements internationaux exigent le respect de ces principes fondamentaux.
+
+En conséquence, nous demandons à la Cour :
+- À titre principal, la relaxe pure et simple de tous les accusés
+- À titre subsidiaire, une expertise judiciaire indépendante du système OPTICA SECURITY avant toute décision sur le fond
+- Dans tous les cas, la réparation du préjudice moral et matériel subi du fait de leur détention injustifiée.
+
+## SCÈNE 8 : DÉLIBÉRÉ ET VERDICT
+
+**PRÉSIDENT SECK** : La Cour, après en avoir délibéré conformément à la loi, rend l'arrêt suivant :
+
+Sur la recevabilité des preuves obtenues par intelligence artificielle :
+
+Attendu que l'article 11 de la Déclaration universelle des droits de l'homme garantit à toute personne le droit à la présomption d'innocence "jusqu'à ce que sa culpabilité ait été légalement établie au cours d'un procès public où toutes les garanties nécessaires à sa défense lui auront été assurées" ;
+
+Attendu que parmi ces garanties figure nécessairement le droit de contester les preuves présentées à charge ;
+
+Attendu qu'en l'espèce, les accusés n'ont pu ni accéder aux images sur lesquelles ils auraient été identifiés, ni contester la méthodologie d'identification, le système OPTICA SECURITY étant protégé par le secret commercial ;
+
+Attendu que le secret commercial, s'il constitue un intérêt légitime dans le domaine économique, ne saurait prévaloir sur les droits fondamentaux de la défense dans une procédure pénale ;
+
+Sur l'allégation de discrimination :
+
+Attendu que les statistiques présentées par la défense démontrent une concentration exclusive des identifications dans les quartiers défavorisés de la banlieue Sud ;
+
+Attendu que cette concentration ne reflète pas la répartition géographique des participants aux manifestations, telle qu'elle apparaît sur les images vidéo produites par la défense ;
+
+Attendu que cette disparité statistique significative constitue un indice sérieux de biais discriminatoire, soit dans l'algorithme lui-même, soit dans son utilisation par les forces de l'ordre ;
+
+Sur la fiabilité scientifique du système :
+
+Attendu que le témoignage de l'expert en intelligence artificielle a mis en lumière des incohérences techniques dans les résultats du système ;
+
+Attendu que l'absence d'audit indépendant ne permet pas d'établir la fiabilité scientifique dudit système au-delà du doute raisonnable ;
+
+Attendu que le principe fondamental en matière pénale "in dubio pro reo" impose que le doute profite à l'accusé ;
+
+Par ces motifs,
+
+La Cour ,
+
+Déclare irrecevables les preuves obtenues par le système OPTICA SECURITY en l'absence d'audit indépendant préalable ;
+
+Prononce la relaxe de l'ensemble des accusés ;
+
+Condamne l'État du Sénégal à verser à chacun des accusés la somme de deux millions de francs CFA à titre de dommages et intérêts pour détention injustifiée ;
+
+Dit que le présent arrêt servira de jurisprudence dans toutes les affaires similaires, et établit le principe suivant : "Aucune condamnation pénale ne peut être fondée sur un système d'intelligence artificielle dont la fiabilité n'a pas été établie par une expertise indépendante et contradictoire".
+
+**PRÉSIDENT SECK** : L'audience est levée.
+
+
